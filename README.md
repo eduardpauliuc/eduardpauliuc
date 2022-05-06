@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm Eduard!</h1><br>
+<h1 align="center">Hello, I'm Eduard!</h1><br>
 <p align="left">
 Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matematica_informatica">"Babes-Bolyai" University of Cluj-Napoca</a>
 <a href="https://www.linkedin.com/in/eduard-timotei-pauliuc-428904198/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eduard Pauliuc" height="25" width="30" /></a> 
