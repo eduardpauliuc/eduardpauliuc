@@ -6,10 +6,10 @@ Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matemat
  
 ```javascript
 let ed = {
-	       age: 20,
-	 positions: ["2nd year Computer Science Student", "Junior Full Stack Developer"],
+	       age: 21,
+	 positions: ["3nd year Computer Science Student", "Junior Full Stack Developer"],
 	 languages: ["C", "C++", "C#", "Python", "Java", "Typescript", "Dart", "CSS", "SQL"],
-	frameworks: ["Angular", "React", "Redux", "Django", "Flutter", "Xamarin", ".NET"],
+	frameworks: ["Angular", "React", "React Native", "Redux", "Django", "Flutter", "Xamarin", ".NET"],
 	     tools: ["Git", "Docker", "Postman", "Azure", "Google Cloud Platform"]
 	}
 ```
